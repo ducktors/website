@@ -7,7 +7,7 @@ export default defineConfig({
   lastUpdated: true,
   outDir: './public',
   srcDir: './src',
-  base: '/website/',
+  base: '/',
   themeConfig: {
     nav: [
       {

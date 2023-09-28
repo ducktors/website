@@ -36,6 +36,7 @@ export default defineConfig({
             link: 'https://github.com/ducktors/storagebus',
           },
           { text: 'Crane', link: 'https://github.com/ducktors/crane' },
+          { text: 'fastify-socket.io', link: 'https://github.com/ducktors/fastify-socket.io' },
         ],
       },
     ],

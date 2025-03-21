@@ -29,6 +29,10 @@ export default defineConfig({
             text: 'Turborepo Remote Cache',
             link: 'https://github.com/ducktors/turborepo-remote-cache',
           },
+          {
+            text: 'Valkeyrie',
+            link: 'https://github.com/ducktors/Valkeyrie',
+          },
           { text: 'Arecibo', link: 'https://github.com/ducktors/arecibo' },
           { text: 'Carretto', link: 'https://github.com/ducktors/carretto' },
           {

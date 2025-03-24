@@ -23,6 +23,12 @@ features:
     link: https://github.com/ducktors/turborepo-remote-cache
     linkText: Learn more
   - icon:
+      src: https://user-images.githubusercontent.com/1620916/216358421-36a63b0e-d1f6-484f-a4ca-6a7119cc0816.jpg
+    title: Valkeyrie
+    details: Valkeyrie is a high-performance key-value store for Node.js 
+    link: https://github.com/ducktors/Valkeyrie
+    linkText: Learn more
+  - icon:
       src: https://user-images.githubusercontent.com/1620916/216599766-d30dacd3-1beb-4e11-a4f4-22e5b52fa57c.png
     title: Arecibo
     details: Fastify Plugin ping responder for health checks.

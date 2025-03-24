@@ -23,7 +23,7 @@ features:
     link: https://github.com/ducktors/turborepo-remote-cache
     linkText: Learn more
   - icon:
-      src: https://user-images.githubusercontent.com/1620916/216358421-36a63b0e-d1f6-484f-a4ca-6a7119cc0816.jpg
+      src: https://private-user-images.githubusercontent.com/1620916/421023685-87c60a17-0f17-42aa-9db8-993dddb08e31.png
     title: Valkeyrie
     details: Valkeyrie is a high-performance key-value store for Node.js 
     link: https://github.com/ducktors/Valkeyrie
